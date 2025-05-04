@@ -1,1 +1,1 @@
-g++ (GCC) 14.2.0, C++ 17
+COMPILADOR: g++ (GCC) 14.2.0, C++ 17
