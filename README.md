@@ -1,2 +1,10 @@
 # AED
-Repositorio para la materia Algoritmos y Estructuras de Datos - K1052 - 2025 Anual - Daiana Micaela Ayala 161.639-0
+Repositorio para la materia Algoritmos y Estructuras de Datos 
+
+CURSO: K1052  
+
+AÑO: 2025 Anual 
+
+NOMBRE Y APELLIDO: Daiana Micaela Ayala 
+
+LEGAJO: 161.639-0
